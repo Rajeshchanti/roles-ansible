@@ -1,3 +1,7 @@
 MONGODB_HOST: mongodb.techytrees.online
 CATALOGUE_HOST: catalogue.techytrees.online
 REDIS_HOST: redis.techytrees.online
+CART_HOST: cart.techytrees.online
+USER_HOST: user.techytrees.online
+MYSQL_HOST: mysql.techytrees.online
+SHIPPING_HOST: shipping.techytrees.online
