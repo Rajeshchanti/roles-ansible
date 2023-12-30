@@ -5,3 +5,5 @@ CART_HOST: cart.techytrees.online
 USER_HOST: user.techytrees.online
 MYSQL_HOST: mysql.techytrees.online
 SHIPPING_HOST: shipping.techytrees.online
+RABBITMQ_HOST: rabbitmq.techytrees.online
+PAYMENT_HOST: payment.techytrees.online
