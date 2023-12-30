@@ -1,0 +1,3 @@
+MONGODB_HOST: mongodb.techytrees.online
+CATALOGUE_HOST: catalogue.techytrees.online
+REDIS_HOST: redis.techytrees.online
